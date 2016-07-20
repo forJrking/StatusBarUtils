@@ -16,6 +16,12 @@
 		.....
 	}
 
+## 免责说明
+
+* 代码参考开源项目： [***StatusBarCompat***](https://github.com/niorgai/StatusBarCompat)
+* 文档和示例为学习和交流而记录。
+
+
 ##效果图
 
 ![状态栏透明](device1.png)	![抽屉菜单顶部透明](device2.png)
