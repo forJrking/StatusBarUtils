@@ -7,7 +7,7 @@
         StatusBarCompat.setStatusBarColor(this, Color.parseColor("#F4A100"));
         StatusBarCompat.translucentStatusBar(this);
 		/**
-			android:fitsSystemWindows="false"
+			布局的属性 android:fitsSystemWindows="false"
 			setContentView之前调用,必须 false
 			setContentView之后调用,必须 true
 			SDK >= 21 需要机型测试达到完美兼容
