@@ -1,4 +1,4 @@
-## StatusBarUtil
+# StatusBarUtil
 透明状态栏只有在 SDK >= 19 (Android 4.4) 才会生效.
 
     protected void onCreate(Bundle savedInstanceState) {
